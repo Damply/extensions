@@ -1,7 +1,7 @@
 [
   {
-    "name": "Seadex",
-    "id": "seadex",
+    "name": "1337xMovies",
+    "id": "1337xMovies",
     "version": "0.0.2",
     "type": "torrent",
     "accuracy": "high",
@@ -11,6 +11,6 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/seadex"
+    "update": "gh:Damply/extensions",
+    "code": "gh:Damply/extensions/1337xMovies"
   }
